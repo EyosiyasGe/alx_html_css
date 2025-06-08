@@ -1,0 +1,39 @@
+*, 
+* ::before,
+* ::after {
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+
+
+
+header {
+    
+}
+
+
+
+main
+{
+    display: flex;
+    flex-direction: row;
+    flex: auto;
+}
+body {
+    display: flex;
+    flex-direction:column;
+}
+article 
+{
+flex: 2;
+overflow-y: auto;   
+}
+aside {
+flex: 1;
+overflow-y: auto;    
+}
+footer 
+{
+flex-direction:row;
+}
