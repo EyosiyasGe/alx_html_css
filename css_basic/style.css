@@ -8,12 +8,6 @@
 
 
 
-header {
-    
-}
-
-
-
 main
 {
     display: flex;
@@ -32,8 +26,4 @@ overflow-y: auto;
 aside {
 flex: 1;
 overflow-y: auto;    
-}
-footer 
-{
-flex-direction:row;
 }
